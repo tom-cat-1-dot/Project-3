@@ -14,3 +14,16 @@ run_cmd('git commit -m "Auto commit from Python script"')
 
 # Step 3: Push to branch (change branch if needed)
 run_cmd("git push origin main")
+
+print("Hello, World!")
+
+name = input("Enter your name: ")
+
+print("Welcome,", name)
+
+a = 10
+b = 20
+
+sum = a + b
+
+print("Addition =", sum)
