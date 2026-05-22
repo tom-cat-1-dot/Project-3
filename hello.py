@@ -1,14 +1,6 @@
-
-
-print("Hello, World!")
-
-name = input("Enter your name: ")
-
-print("Welcome,", name)
+print("Hello from Jenkins + Git + Python3")
 
 a = 10
 b = 20
 
-sum = a + b
-
-print("Addition =", sum)
+print("Sum =", a + b)
